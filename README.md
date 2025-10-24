@@ -2,8 +2,9 @@
 
 ## Overview
 
-Second-year university module submission for **Professional Development**. A Movie Database Tool delivered as a React Native app with a **RESTful API** in a **Scrum-based Agile team**.  
-A group project. Users can search for movies and view detailed descriptions. Contributed to **code reviews, debugging, and collaborative problem-solving**, improving software quality and showcasing teamwork and professional development skills.
+Second-year university module submission for **Professional Development**. A Movie Database Tool delivered as a React Native app with a **RESTful API** in a **Scrum-based Agile team**. 
+
+A group project. Users can search for movies and view detailed descriptions. Contributed to **code reviews, debugging and collaborative problem-solving**, improving software quality and showcasing teamwork and professional development skills.
 
 ---
 
