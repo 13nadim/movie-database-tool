@@ -48,3 +48,23 @@ A group project. Users can search for movies and view detailed descriptions. Con
 ## Notes
 
 - **Code not included**: original project code is unavailable, but this repository documents the design, workflow and personal contributions.
+
+---
+
+## Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Homepage.png" width="300px"><br>
+        <b>Homepage</b>
+      </td>
+      <td align="center">
+        <img src="FilmPage.png" width="300px"><br>
+        <b>Film Page</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
